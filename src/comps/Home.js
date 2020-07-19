@@ -10,6 +10,13 @@ function Home(){
                 <h1 className="highlightHeadings">Welcome to AudioHive</h1>
                 <p>Specialising in providing audio and visual equipment, production and recordings of small live events since 2010.</p>
                 <br></br>
+                <h2 className="highlightHeadings">Promotional Videos</h2>
+                <br></br>
+                <iframe className="youtubeFrames" allowFullScreen="true" src="https://www.youtube.com/embed/q_FHjAtQjNk" title="Freshlyground Live-Ma’Cheri-Youtube">
+                </iframe>
+                <iframe className="youtubeFrames" allowFullScreen="true" src="https://www.youtube.com/embed/Bm-enRsVnB8" title="KAHN Morbee / Parlotones live performance: I’ll be there-Youtube">
+                </iframe>
+                <br></br>
                 <h2 className="highlightHeadings">What The Media Says About Us</h2>
                 <h4 className="highlightHeadings">The Record</h4>
                 <p className="mediaQuotes">“Real up and comers in the world of live events and a company to keep any eye on.”</p>
